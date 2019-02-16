@@ -4,3 +4,7 @@ target/
 idea/
 *.ipr
 *.iws
+
+.metals/
+.bloop/
+
